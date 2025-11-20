@@ -33,7 +33,7 @@ Build a Power BI dashboard to visualize insights clearly
 
 🛠️ Tech Stack
 
-SQL (MySQL / PostgreSQL / SQL Server — specify yours)
+SQL
 
 Power BI
 
