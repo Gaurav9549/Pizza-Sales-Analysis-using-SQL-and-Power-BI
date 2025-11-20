@@ -1,53 +1,54 @@
-# Pizza-Sales-Project-SQL-PowerBI
-# Pizza Sales Project
+🍕 Pizza Sales Analysis Using SQL & Power BI
 
-## Overview
+This project focuses on analyzing pizza sales data to uncover key insights that can help improve business performance. The goal is to understand customer behavior, identify top-performing products, analyze revenue patterns, and present actionable insights through SQL queries and an interactive Power BI dashboard.
 
-The Pizza Sales Project is a data analysis and visualization project aimed at analyzing and visualizing sales data from a fictional pizza restaurant chain. This project utilizes SQL for data extraction and transformation and Power BI for data visualization. The goal of this project is to provide insights and actionable information to help the pizza restaurant chain optimize its operations, improve sales, and enhance customer satisfaction.
+✅ Project Overview
 
-## Project Components
+In this project, raw pizza sales data is cleaned, transformed, and analyzed using SQL. The findings are then visualized through Power BI to provide clear, data-driven insights.
+This end-to-end analytics workflow demonstrates skills in:
 
-### 1. Data Acquisition
+Database creation and management
 
-The project begins with the acquisition of raw sales data. This data may include information such as customer orders, product details, order dates, and transaction amounts. Data can be obtained from various sources, including databases, CSV files, or other data storage systems.
+Writing optimized SQL queries
 
-### 2. Data Transformation with SQL
+Performing data cleaning and exploration
 
-SQL (Structured Query Language) is used to clean, filter, and transform the raw data into a format suitable for analysis. This may involve tasks such as joining tables, aggregating data, handling missing values, and creating new calculated fields.
+Building interactive BI dashboards
 
-### 3. Data Analysis
+Presenting business insights
 
-Once the data is prepared, various SQL queries are written to perform in-depth data analysis. This may include:
+🔍 Key Objectives
 
-- Identifying top-selling pizza flavors.
-- Analyzing sales trends over time.
-- Evaluating customer demographics and preferences.
-- Calculating average order values.
-- Assessing the performance of individual restaurant locations.
+Analyze total revenue, average order value, and total quantities sold
 
-### 4. Power BI Visualization
+Identify best-selling and worst-selling pizzas
 
-Power BI is used to create interactive and informative visualizations that showcase the insights gained from the data analysis. The visualizations may include:
+Determine peak sales days and hours
 
-- Bar charts and pie charts displaying sales by product category.
-- Time series charts illustrating sales trends.
-- Geographic maps showing the distribution of restaurant locations.
-- Dashboards summarizing key performance indicators (KPIs).
+Examine category-wise and size-wise performance
 
-### Power BI Visualization
+Understand customer ordering trends
 
-![Dashboard 1](https://github.com/harsh-j-sharma/Pizza-Sales-Project-SQL-PowerBI/blob/main/PizzaSalesDashboard.png)
+Build a Power BI dashboard to visualize insights clearly
 
+🛠️ Tech Stack
 
-![Dashboard 2](https://github.com/harsh-j-sharma/Pizza-Sales-Project-SQL-PowerBI/blob/main/PizzaSalesDashboard2.png)
+SQL (MySQL / PostgreSQL / SQL Server — specify yours)
 
-### 5. Insights and Recommendations
+Power BI
 
-Based on the analysis and visualizations, actionable insights and recommendations are provided to the pizza restaurant chain. These insights can help in making informed decisions to improve sales, marketing strategies, and overall business performance.
+Excel/CSV dataset
 
-## Dependencies
+📊 Key Insights from the Analysis
 
-- SQL database or data source
-- Power BI Desktop
+Top-performing pizza categories
 
+Highest revenue-generating pizza
 
+Low-performing items that need marketing or removal
+
+Weekly & hourly sales patterns
+
+Performance comparison between pizza sizes
+
+Revenue contribution by pizza type
